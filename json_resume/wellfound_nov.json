@@ -1,0 +1,81 @@
+{
+    "name": "Yohans Hailu Kasaw",
+    "phone": "+251-929-260-704",
+    "email": "yohanshailukasaw@gmail.com",
+    "location": "Addis Ababa, Ethiopia",
+    "linkedin": "https://www.linkedin.com/in/yohans-kasaw/",
+    "github": "https://github.com/yohans-kasaw",
+    "summary": "Full-Stack Engineer, expert in React.js/Next.js, Vue.js, Node.js, Django, Flask, and AWS, complemented by elite proficiency in Python & Go.",
+
+
+    "sections": [
+        {
+            "title": "Experience",
+            "entries": [
+                {
+                    "title": "Full-Stack Engineer",
+                    "subtitle": "Floey - Al Asimah, Kuwait",
+                    "period": "06/2025 - present",
+                    "description": [
+                        "Designed and built a multi-tenant software as a service (SaaS) for gym management with a focus on fault tolerance and robustness, utilizing <i>Python (Django)</i> for the backend infrastructure.",
+                        "Developed sophisticated manager portal with <i>Vue.js (JavaScript)</i>, providing high-performance user experience for activity feeds, scheduling calendars, and analytics dashboards."
+                    ]
+                },
+                {
+                    "title": "Software Engineer",
+                    "subtitle": "OwlBox AI - Boston, MA",
+                    "period": "04/2024 - 06/2025",
+                    "description": [
+                        "Engineered a multi-cloud AI orchestration platform using <i>Python (Flask)</i> for security camera footage processing across AWS, Google Cloud, and Azure.",
+                        "Developed a full-stack video annotation portal using <i>Vue.js</i> and <i>Python (Flask)</i> and <i>PostgreSQL</i>, enabling human annotators to efficiently label footage for ML model training."
+                    ]
+                },
+                {
+                    "title": "Software Developer",
+                    "subtitle": "Africa to Silicon Valley - Palo Alto, CA",
+                    "period": "09/2022 - 04/2024",
+                    "description": [
+                        "Led development team building EzyPay payment platform using <i>React.js</i> and <i>Go</i>, delivering a responsive, mobile-first design for streamlined financial transactions.",
+                        "Implemented core features for Hakim Hub, a public healthcare platform, including live notifications and video calls using <i>Node.js</i> and <i>React.js</i>."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Education",
+            "entries": [
+                {
+                    "title": "Computer Engineering",
+                    "subtitle": "Addis Ababa University",
+                    "period": "06/2022",
+                    "description": ["🏅 GPA: 3.79, Top 4% of class."]
+                },
+                {
+                    "title": "Competitive Programming",
+                    "subtitle": "A2SV",
+                    "period": "10/2021 - 10/2022",
+                    "description": [
+                        "Solved <i>1,300+</i> problems, exhibiting exceptional problem-solving, teamwork, and dedication, resulting in Top <i>2.5% LeetCode</i> ratings.",
+                        "Developed expertise in data structures and algorithms, with competence in <i>Python</i> and <i>Go</i>."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "entries": [
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "period": "",
+                    "description": [
+                        "<i>Programmig Languages</i>: Python, Go, JavaScript, TypeScript, Bash/Shell, SQL.",
+                        "<i>Backend</i>: Django, Flask, Node.js, RESTful APIs.",
+                        "<i>Frontend</i>: Vue.js, React.js, Next.js, Vite.",
+                        "<i>Cloud & DevOp</i>s: PostgreSQL, GCP, AWS, Docker, GitHub Actions."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Yohans Hailu Kasaw",
+  "phone": "+251-929-260-704",
+  "email": "yohanshailukasaw@gmail.com",
+  "location": "Addis Ababa, Ethiopia",
+  "linkedin": "https://www.linkedin.com/in/yohans-kasaw/",
+  "github": "https://github.com/yohans-kasaw",
+  "summary": "<b>4+ years</b> of experience in Full-Stack development with <b>Python</b> (Django, Flask), <b>Golang</b>, and <b>JavaScript</b> (React, Next.js, Vue.js, Express). Proven expertise in application architecture and problem-solving, with a top <b>2.5% LeetCode</b> ranking.",
+  "sections": [
+    {
+      "title": "Experience",
+      "entries": [
+        {
+          "title": "FullStack Developer",
+          "subtitle": "Floey",
+          "period": "06/2024 - present",
+          "location": "Kuwait city, Kuwait",
+          "description": [
+            "Developed responsive frontend interfaces for a comprehensive SaaS gym management platform, creating intuitive booking systems, user dashboards, and trainer management interfaces using Next.js and modern CSS frameworks.",
+            "Collaborated with design team to convert Figma mockups into pixel-perfect, responsive web components; integrated payment gateway UIs (Stripe) with seamless user experience and real-time feedback systems."
+          ]
+        },
+        {
+          "title": "Frontend Developer",
+          "subtitle": "OwlBox AI",
+          "period": "04/2023 - present",
+          "location": "",
+          "description": [
+            "Built scalable frontend for AI-driven video annotation platform using Vue.js and TypeScript, implementing responsive design patterns and dynamic component rendering for optimal user interaction across devices.",
+            "Collaborated with backend team to integrate RESTful APIs, creating smooth data flow and real-time updates; optimized frontend performance achieving 23.03% improvement in page load speeds through code splitting and lazy loading."
+          ]
+        },
+        {
+          "title": "Frontend Developer",
+          "subtitle": "Africa to Silicon Valley",
+          "period": "06/2022 - 04/2023",
+          "location": "",
+          "description": [
+            "Led frontend development for EzyPay payment platform, creating responsive user interfaces with React and Next.js, focusing on mobile-first design and intuitive user flows for financial transactions.",
+            "Developed dynamic healthcare platform interfaces using React and Next.js with Tailwind CSS, implementing real-time notifications, social media integration, and responsive video calling components for public health information access."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "entries": [
+        {
+          "title": "Computer Engineering",
+          "subtitle": "Addis Ababa University",
+          "period": "06/2022",
+          "location": "",
+          "description": [
+            "🏅 GPA: 3.79, Top 4% of class."
+          ]
+        },
+        {
+          "title": "Competitive Programming",
+          "subtitle": "A2SV",
+          "period": "10/2021 - 06/2022",
+          "location": "",
+          "description": [
+            "Gained mastery of data structures and algorithms with proficiency in Python & Go.",
+            "Achieved Top 2.5% LeetCode ratings by solving 1,000+ challenges, demonstrating exceptional problem-solving, teamwork, and dedication."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "entries": [
+        {
+          "title": "EzyPay",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Created responsive payment interface for Ethiopia's mobile payment market with focus on accessibility and user experience.",
+            "Implemented frontend components with React featuring real-time transaction feedback and intuitive navigation."
+          ]
+        },
+        {
+          "title": "RateEat",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Designed and built responsive restaurant rating interface using React and Next.js with emphasis on visual appeal and user engagement.",
+            "Converted design mockups into interactive components with smooth animations and mobile-optimized layouts."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "entries": [
+        {
+          "title": "",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Frontend Technologies: HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vue.js, Responsive Web Design",
+            "CSS Frameworks & Tools: Tailwind CSS, Bootstrap, Styled Components, CSS Grid, Flexbox",
+            "Development Tools: Git, GitHub, Figma, Visual Studio Code, Chrome DevTools, Webpack, Vite",
+            "API Integration: RESTful APIs, JSON, Fetch API, Axios, WebSockets for real-time features"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Achievements",
+      "entries": [
+        {
+          "title": "",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Achieved Top 2.5% in global programming competition (LeetCode), demonstrating exceptional debugging and problem-solving skills applicable to complex frontend challenges.",
+            "Won $1000 in A2SV Month-Long Coding Competition, showcasing systematic approach to technical problem resolution."
+          ]
+        }
+      ]
+    }
+  ]
+}

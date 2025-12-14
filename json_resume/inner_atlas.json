@@ -1,0 +1,125 @@
+{
+  "name": "Yohans Hailu Kasaw",
+  "phone": "+251-929-260-704",
+  "email": "yohanshailukasaw@gmail.com",
+  "location": "Addis Ababa, Ethiopia",
+  "linkedin": "https://www.linkedin.com/in/yohans-kasaw/",
+  "github": "https://github.com/yohans-kasaw",
+  "summary": "Creative Frontend Developer with 3+ years of experience building visually engaging and interactive web applications with React and Next.js. Passionate about translating complex ideas into intuitive, dynamic user interfaces. Combines a strong design sensibility with elite problem-solving skills to craft seamless and memorable user experiences.",
+  "sections": [
+    {
+      "title": "Experience",
+      "entries": [
+        {
+          "title": "Frontend Developer",
+          "subtitle": "Floey",
+          "period": "06/2024 - present",
+          "location": "",
+          "description": [
+            "Developed highly interactive and responsive frontend interfaces for a SaaS platform, crafting engaging user dashboards and intuitive booking systems with Next.js.",
+            "Collaborated closely with the design team to transform Figma mockups into pixel-perfect, interactive web components, focusing on a dynamic and seamless user experience."
+          ]
+        },
+        {
+          "title": "Frontend Developer",
+          "subtitle": "OwlBox AI",
+          "period": "04/2023 - present",
+          "location": "",
+          "description": [
+            "Engineered a dynamic and scalable frontend for an AI-powered video annotation platform using Vue.js, creating an interactive workspace for complex visual data interaction.",
+            "Optimized frontend performance by 23%, ensuring a fluid and responsive experience during real-time data integration and manipulation across all devices."
+          ]
+        },
+        {
+          "title": "Frontend Developer",
+          "subtitle": "Africa to Silicon Valley",
+          "period": "06/2022 - 04/2023",
+          "location": "",
+          "description": [
+            "Led the frontend development of dynamic platform interfaces using React and Next.js, implementing features like real-time notifications and interactive video components to boost user engagement.",
+            "Focused on building intuitive user flows and mobile-first designs for a payment platform, ensuring a visually clean and accessible financial transaction experience."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "entries": [
+        {
+          "title": "Computer Engineering",
+          "subtitle": "Addis Ababa University",
+          "period": "06/2022",
+          "location": "",
+          "description": [
+            "🏅 GPA: 3.79, Top 4% of class."
+          ]
+        },
+        {
+          "title": "Competitive Programming",
+          "subtitle": "A2SV",
+          "period": "10/2021 - 06/2022",
+          "location": "",
+          "description": [
+            "Gained mastery of data structures and algorithms with proficiency in Python & Go.",
+            "Achieved Top 2.5% LeetCode ratings by solving 1,000+ challenges, demonstrating exceptional problem-solving, teamwork, and dedication."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "entries": [
+        {
+          "title": "RateEat",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Designed and developed a visually-driven restaurant rating application using React and Next.js, focusing on creating an engaging user experience through smooth animations and interactive components.",
+            "Translated design concepts into a polished, mobile-first interface with a strong emphasis on visual appeal and intuitive navigation."
+          ]
+        },
+        {
+          "title": "EzyPay",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Crafted a responsive and intuitive payment interface for Ethiopia's mobile payment market, with a core focus on accessibility and a frictionless user experience."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "entries": [
+        {
+          "title": "",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Frontend Development: HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vue.js",
+            "UI & Styling: Responsive Web Design, Tailwind CSS, Styled Components, CSS Grid, Flexbox, CSS Animations & Transitions",
+            "Tools & APIs: Git, GitHub, Figma, VS Code, RESTful APIs, Axios, WebSockets"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Achievements",
+      "entries": [
+        {
+          "title": "",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Achieved Top 2.5% in global programming competition (LeetCode), demonstrating elite problem-solving skills crucial for architecting complex, interactive user interfaces.",
+            "Won $1000 in A2SV Month-Long Coding Competition, showcasing a systematic approach to technical problem resolution."
+          ]
+        }
+      ]
+    }
+  ]
+}

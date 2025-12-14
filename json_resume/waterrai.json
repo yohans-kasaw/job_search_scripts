@@ -1,0 +1,104 @@
+{
+    "name": "Yohans Hailu Kasaw",
+    "phone": "+251-929-260-704",
+    "email": "yohanshailukasaw@gmail.com",
+    "location": "Addis Ababa, Ethiopia",
+    "linkedin": "https://www.linkedin.com/in/yohans-hailu/",
+    "github": "https://github.com/yohans-kasaw",
+    "summary": "Full Stack Engineer with 3+ years of experience specializing in building scalable, real-time applications. Proven expertise in integrating AI/ML models into production environments, leveraging a deep skill set in React, Next.js, Node.js, and Python. Elite problem-solver (Top 2.5% LeetCode).",
+    "sections": [
+        {
+            "title": "Professional Experience",
+            "entries": [
+                {
+                    "title": "Frontend Developer",
+                    "subtitle": "Floey",
+                    "period": "06/2024 - present",
+                    "location": "",
+                    "description": [
+                        "Developed responsive frontend interfaces for a comprehensive SaaS gym management platform, creating intuitive booking systems, user dashboards, and trainer management interfaces using Next.js and modern CSS frameworks.",
+                        "Collaborated with design team to convert Figma mockups into pixel-perfect, responsive web components; integrated payment gateway UIs (Stripe) with seamless user experience and real-time feedback systems."
+                    ]
+                },
+                {
+                    "title": "Software Engineer",
+                    "subtitle": "OwlBox AI",
+                    "period": "04/2023 - Present",
+                    "description": [
+                        "Architected and developed a full-stack AI-driven video annotation platform, integrating complex ML models into a production system serving real-time user interactions.",
+                        "Engineered a high-performance backend using Node.js and Python (Flask), managing asynchronous tasks and a robust CI/CD pipeline (GitHub Actions) for reliable, automated deployments to AWS (Lambda, EC2, S3).",
+                        "Built a scalable and responsive frontend with Vue.js and TypeScript, optimizing performance to achieve a 23% improvement in page load speeds through code splitting and lazy loading."
+                    ]
+                },
+                {
+                    "title": "Head of Education & Software Engineer",
+                    "subtitle": "Africa to Silicon Valley",
+                    "period": "06/2022 - 04/2023",
+                    "description": [
+                        "Directed backend architecture for a high-traffic delivery system using Node.js, MongoDB, Docker, and Kubernetes on GCP, ensuring high availability and scalability.",
+                        "Led frontend development for a platform featuring real-time notifications and video, utilizing React, Next.js, and TypeScript to build a low-latency user experience.",
+                        "Managed full-stack development for a payment system, overseeing teams using Go, Next.js, React, and a suite of AWS services (EC2, S3, Lambda, RDS)."
+                    ]
+                },
+                {
+                    "title": "Software Engineer Intern",
+                    "subtitle": "Eskalate",
+                    "period": "12/2020 - 07/2021",
+                    "description": [
+                        "Designed and deployed modular, secure RESTful APIs using Python (Flask), PostgreSQL, Docker, and Kubernetes.",
+                        "Enhanced application stability by implementing CI/CD pipelines and QA frameworks (Jest, Cypress), significantly decreasing bug rates."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Technical Skills",
+            "entries": [
+                {
+                    "description": [
+                        "Frontend: JavaScript/TypeScript, React, Next.js, Redux, HTML5, CSS3, WebSockets",
+                        "Backend: Node.js, Express.js, Python (Flask, FastAPI), RESTful APIs, GraphQL",
+                        "AI / ML: LLMs, RAG, Prompt Engineering, Python, TensorFlow, PyTorch",
+                        "Databases & Caching: PostgreSQL, MongoDB, MySQL, Redis",
+                        "Cloud & DevOps: AWS (Lambda, EC2, S3, RDS), GCP, Docker, Kubernetes, CI/CD (GitHub Actions)"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Education & Achievements",
+            "entries": [
+                {
+                    "title": "Competitive Programming | A2SV",
+                    "period": "10/2021 - 06/2022",
+                    "description": [
+                        "Achieved Top 2.5% on LeetCode by solving 1,000+ algorithmic challenges in Python and Go, demonstrating elite problem-solving for high-performance systems."
+                    ]
+                },
+                {
+                    "title": "B.S. in Computer Engineering | Addis Ababa University",
+                    "period": "Graduated 06/2022",
+                    "description": [
+                        "GPA: 3.79, graduated in the top 4% of the class."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Achievements",
+            "entries": [
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "inlineTitle": "",
+                    "period": "",
+                    "location": "",
+                    "description": [
+                        "Achieved Top 2.5% in global programming competition (LeetCode), demonstrating exceptional debugging and problem-solving skills applicable to complex frontend challenges.",
+                        "Won $1000 in A2SV Month-Long Coding Competition, showcasing systematic approach to technical problem resolution."
+                    ]
+                }
+            ]
+        }
+    ]
+}

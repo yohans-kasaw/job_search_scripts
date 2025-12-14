@@ -26,6 +26,10 @@
         />
         <style>
             /* Define custom font families for easy use with Tailwind */
+            i {
+                color: oklch(70% 0.100 70.08);
+            }
+
             .font-serif {
                 font-family: 'Playfair Display', serif;
             }
@@ -65,19 +69,16 @@
     </head>
     <body class="font-sans bg-slate-900 text-slate-300">
         <main
-            class="container mx-auto max-w-4xl my-12 p-8 sm:p-12 md:p-16 bg-slate-800 shadow-2xl shadow-black/50 rounded-lg"
+            class="container mx-auto max-w-4xl p-12 pt-8 bg-slate-800 shadow-2xl shadow-black/50 rounded-lg"
         >
             <!-- === HEADER: THE STATEMENT === -->
-            <header class="text-center mb-16">
+            <header class="text-center mb-8">
                 <h1
                     class="font-serif text-5xl md:text-7xl font-bold text-amber-300 tracking-wider"
                 >
                     {{.Name}}
                 </h1>
                 <!-- I've added a JobTitle field to your main data structure for this -->
-                <p class="mt-4 text-xl md:text-2xl text-slate-400 font-light">
-                    Senior Software Engineer
-                </p>
                 <div
                     class="mt-8 flex flex-wrap justify-center items-center gap-x-6 gap-y-3 text-sm text-slate-400"
                 >
@@ -85,30 +86,30 @@
                         href="mailto:{{.Email}}"
                         class="flex items-center gap-2 hover:text-amber-300 transition-colors"
                     >
-                        <i class="fa-solid fa-envelope"></i> {{.Email}}
+                        <span class="fa-solid fa-envelope"></span> {{.Email}}
                     </a>
                     <a
                         href="{{.Linkedin}}"
                         class="flex items-center gap-2 hover:text-amber-300 transition-colors"
                     >
-                        <i class="fa-brands fa-linkedin"></i> {{.Linkedin}}
+                        <span class="fa-brands fa-linkedin"></span> {{.Linkedin}}
                     </a>
                     <a
                         href="{{.Github}}"
                         class="flex items-center gap-2 hover:text-amber-300 transition-colors"
                     >
-                        <i class="fa-brands fa-github"></i> {{.Github}}
+                        <span class="fa-brands fa-github"></span> {{.Github}}
                     </a>
                     <a class="flex items-center gap-2">
-                        <i class="fa-solid fa-map-pin"></i> {{.Location}}
+                        <span class="fa-solid fa-map-pin"></span> {{.Location}}
                     </a>
                 </div>
             </header>
 
             <!-- === PROLOGUE: THE SUMMARY === -->
-            <section class="mb-16">
+            <section class="mb-8">
                 <h2 class="font-serif text-3xl font-bold text-amber-400">
-                    Prologue
+                    Summary
                 </h2>
                 <div class="w-24 h-px bg-amber-400/50 mt-3 mb-6"></div>
                 <p class="text-slate-300 leading-relaxed">{{.Summary}}</p>
@@ -116,12 +117,12 @@
 
             <!-- === DYNAMIC SECTIONS: THE ODYSSEY CONTINUES === -->
             {{range .Sections}}
-            <section class="mb-12">
+            <section class="mb-4">
                 <h2 class="font-serif text-3xl font-bold text-amber-400">
                     {{.Title}}
                 </h2>
                 <div class="w-24 h-px bg-amber-400/50 mt-3 mb-6"></div>
-                <div class="space-y-4">
+                <div class="space-y-2">
                     {{range .Entries}}
                     <div class="timeline-entry">
                         <div
@@ -131,7 +132,7 @@
                                 {{.Title}}
                             </h3>
                             <p
-                                class="text-sm text-slate-400 font-medium mt-1 sm:mt-0 flex-shrink-0"
+                                class="text-sm text-slate-400 font-medium sm:mt-0 flex-shrink-0"
                             >
                                 {{.Period}}
                             </p>

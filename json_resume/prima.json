@@ -1,0 +1,105 @@
+{
+  "name": "Yohans Hailu Kasaw",
+  "phone": "+251-929-260-704",
+  "email": "yohanshailukasaw@gmail.com",
+  "location": "Addis Ababa, Ethiopia",
+  "linkedin": "https://www.linkedin.com/in/yohans-kasaw/",
+  "github": "https://github.com/yohans-kasaw",
+  "summary": "Software Engineer with 3+ years of experience building scalable, data-driven applications. A top-tier problem solver (Top 2.5% on LeetCode) with a strong foundation in Python and modern backend practices. Adept at designing microservices, integrating complex APIs, and bridging the gap between user-facing interfaces and robust backend logic. Eager to tackle challenges in complex domains like fintech and data processing.",
+  "sections": [
+    {
+      "title": "Experience",
+      "entries": [
+        {
+          "title": "Software Engineer",
+          "subtitle": "Floey",
+          "period": "06/2024 - present",
+          "location": "",
+          "description": [
+            "Engineered key features for a comprehensive SaaS gym management platform, developing both the Next.js frontend and supporting Python microservices (Django) for booking and user management.",
+            "Designed and integrated RESTful APIs to ensure seamless, real-time data flow between the user interface and backend systems, powering dashboards and scheduling functionalities.",
+            "Collaborated with product and design teams to translate complex business requirements into scalable technical solutions, including robust payment gateway integrations with Stripe."
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "OwlBox AI",
+          "period": "04/2023 - present",
+          "location": "",
+          "description": [
+            "Developed and maintained backend services in Python (Flask) for an AI-driven video annotation platform, focusing on creating efficient data ingestion and processing pipelines.",
+            "Collaborated closely with the backend team to design and consume RESTful APIs, ensuring smooth data exchange and contributing to a 23% improvement in overall application responsiveness.",
+            "Built dynamic frontend components in Vue.js and TypeScript that interfaced directly with our data services, enabling efficient rendering of complex data visualizations for annotators."
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Africa to Silicon Valley",
+          "period": "06/2022 - 04/2023",
+          "location": "",
+          "description": [
+            "Led the development of critical components for the EzyPay payment platform, building both the secure RESTful API in Python (FastApi) and the responsive user interface in React/Next.js.",
+            "Implemented robust backend logic for financial transactions, focusing on data integrity, security, and seamless integration with third-party payment processors.",
+            "Contributed to the architecture of a scalable microservices-based system for a dynamic healthcare platform, facilitating real-time notifications and data synchronization."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "entries": [
+        {
+          "title": "Computer Engineering",
+          "subtitle": "Addis Ababa University",
+          "period": "06/2022",
+          "location": "",
+          "description": [
+            "🏅 GPA: 3.79, Graduated in the top 4% of the class."
+          ]
+        },
+        {
+          "title": "Competitive Programming & Backend Development",
+          "subtitle": "A2SV",
+          "period": "10/2021 - 06/2022",
+          "location": "",
+          "description": [
+            "Gained deep expertise in data structures and algorithms with professional proficiency in Python & Go, applying these skills to solve complex backend challenges.",
+            "Achieved a Top 2.5% LeetCode ranking by solving over 1,000 challenges, demonstrating exceptional problem-solving, analytical, and debugging skills."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "entries": [
+        {
+          "title": "",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Programming Languages: Python, Go, JavaScript, TypeScript,",
+            "DevOps & Infrastructure: Git, GitHub, CI/CD, Docker, Containerization, IaC (Terraform), AWS",
+            "Frontend Technologies:  React, Next.js, Vue.js, HTML5, CSS3",
+            "Backend Technologies:  Django, Flask, Node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Achievements",
+      "entries": [
+        {
+          "title": "",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Ranked in the Top 2.5% globally on LeetCode, showcasing elite debugging and problem-solving capabilities directly applicable to complex software engineering challenges.",
+            "Awarded $1,000 prize in A2SV's month-long coding competition for demonstrating a systematic and highly efficient approach to technical problem resolution."
+          ]
+        }
+      ]
+    }
+  ]
+}

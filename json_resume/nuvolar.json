@@ -1,0 +1,129 @@
+{
+  "name": "Yohans Hailu Kasaw",
+  "phone": "+251-929-260-704",
+  "email": "yohanshailukasaw@gmail.com",
+  "location": "Addis Ababa, Ethiopia",
+  "linkedin": "https://www.linkedin.com/in/yohans-kasaw/",
+  "github": "https://github.com/yohans-kasaw",
+  "summary": "Backend Developer with over 3 years of experience in designing, developing, and optimizing scalable, high-performance applications using Python and Go. Proven ability to architect and integrate robust REST APIs and manage complex data models with SQL and NoSQL databases. Combines elite problem-solving skills (Top 2.5% on LeetCode) with a deep understanding of principles to build clean, maintainable, and efficient code.",
+  "sections": [
+    {
+      "title": "Experience",
+      "entries": [
+        {
+          "title": "Backend Engineer",
+          "subtitle": "Floey",
+          "period": "06/2024 - present",
+          "location": "",
+          "description": [
+            "Engineered and integrated backend services using Python (Django) for a SaaS gym management platform, handling core functionalities like user authentication, class bookings, and trainer scheduling.",
+            "Designed and implemented REST API endpoints to facilitate seamless data flow between the client-side application and the PostgreSQL database, ensuring data integrity and real-time updates.",
+            "Collaborated on the backend integration of the Stripe and Hasabe payment gateway, developing secure logic to manage subscriptions and process transactions efficiently."
+          ]
+        },
+        {
+          "title": "Backend Engineer",
+          "subtitle": "OwlBox AI",
+          "period": "04/2023 - present",
+          "location": "",
+          "description": [
+            "Developed and maintained scalable backend services using Python (Flask) for an AI-driven video annotation platform, supporting high-throughput data processing and user interactions.",
+            "Architected and delivered RESTful APIs, enabling real-time data synchronization and smooth communication between the frontend interface and backend systems.",
+            "Optimized data retrieval and storage operations by leveraging PostgreSQL for structured data and Redis for caching, contributing to a significant reduction in application latency."
+          ]
+        },
+        {
+          "title": "Backend Developer",
+          "subtitle": "Africa to Silicon Valley",
+          "period": "06/2022 - 04/2023",
+          "location": "",
+          "description": [
+            "Contributed to the backend development of the EzyPay payment platform, implementing core logic for secure financial transactions and building robust APIs for third-party integrations.",
+            "Developed backend functionalities within a microservice architecture for a dynamic healthcare platform, including real-time notifications and video-calling services using WebSockets and Python."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "entries": [
+        {
+          "title": "Computer Engineering",
+          "subtitle": "Addis Ababa University",
+          "period": "06/2022",
+          "location": "",
+          "description": [
+            "🏅 GPA: 3.79, Top 4% of class."
+          ]
+        },
+        {
+          "title": "Competitive Programming",
+          "subtitle": "A2SV",
+          "period": "10/2021 - 06/2022",
+          "location": "",
+          "description": [
+            "Gained mastery of data structures and algorithms with a primary focus on backend development using Python & Go.",
+            "Achieved Top 2.5% LeetCode ratings by solving 1,000+ challenges, demonstrating exceptional problem-solving, teamwork, and dedication."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "entries": [
+        {
+          "title": "EzyPay Backend",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Developed the core backend logic for a mobile payment platform using Python and Flask, designing REST APIs for secure transaction processing, user authentication, and balance management.",
+            "Modeled and managed the application's data layer using PostgreSQL, ensuring efficient and reliable data handling for financial records."
+          ]
+        },
+        {
+          "title": "RateEat API",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Built a scalable backend for a restaurant rating application, creating a comprehensive RESTful API with Python to handle user-generated content, ratings, and complex search queries.",
+            "Deployed the application in a containerized environment using Docker, streamlining the development and deployment workflow."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "entries": [
+        {
+          "title": "",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Backend Development: Python, Flask, Django, Go, REST API Design, Microservice Architecture",
+            "Databases & Caching: PostgreSQL, SQL, Redis, DynamoDB",
+            "DevOps & Cloud: Docker, CI/CD, AWS, Linux, Git, GitHub",
+            "Frontend Knowledge: JavaScript, TypeScript, React, Vue.js"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Achievements",
+      "entries": [
+        {
+          "title": "",
+          "subtitle": "",
+          "period": "",
+          "location": "",
+          "description": [
+            "Achieved Top 2.5% in global programming competition (LeetCode), demonstrating exceptional debugging and algorithmic skills crucial for optimizing backend performance and scalability.",
+            "Won $1000 in A2SV Month-Long Coding Competition, showcasing a systematic approach to technical problem resolution."
+          ]
+        }
+      ]
+    }
+  ]
+}
