@@ -1,0 +1,76 @@
+{
+    "Name": "Yohans Kasaw",
+    "Title": "Software Engineer",
+    "Location": "Addis Ababa, Ethiopia",
+    "Phone": "+251929260704",
+    "Email": "yohanshailukasaw@gmail.com",
+    "Linkedin": "https://linkedin.com/in/yohans-kasaw",
+    "Github": "https://github.com/yohans-kasaw",
+    "Website": "https://yohans.dev",
+    "Summary": "Results-oriented Software Engineer with 3 years of experience driving full SDLC. Leverages Python, Go, and Node.js with Next.js/React.js and Vue.js to deliver modern products.",
+    "Experience": [
+        {
+            "Role": "Software Engineer",
+            "Company": "Floey",
+            "Link": "https://floeyapp.com",
+            "Location": "Al Asimah, Kuwait",
+            "Period": "Jun, 2025 - current",
+            "Points": [
+                "Developed a SaaS for gyms featuring booking, billing, and analytics (Django, Vue.js).",
+                "Automated invoicing and payment by integrating third-party gateways and WebHook.",
+                "Optimized analytics through advanced query and caching (Redis, Postgres).",
+                "Implemented user activity tracking to power reporting and live activity feeds."
+            ]
+        },
+        {
+            "Role": "Software Engineer",
+            "Company": "OwlBox AI",
+            "Link": "http://www.owlbox.ai",
+            "Location": "Boston, MA",
+            "Period": "Apr, 2024 - Jun, 2025",
+            "Points": [
+                "Developed a video annotation platform (Vue.js, Flask) and managed AWS deployments.",
+                "Designed scalable APIs and schemas for efficient high-volume data retrieval.",
+                "Integrated cross-cloud AI models using AWS Lambda and asynchronous messaging.",
+                "Implemented production-ready algorithms to validate and score data quality."
+            ]
+        },
+        {
+            "Role": "Software Engineer",
+            "Company": "Africa to Silicon Valley",
+            "Link": "https://a2sv.org",
+            "Location": "Palo Alto, CA",
+            "Period": "Sep, 2022 - Apr, 2024",
+            "Points": [
+                "Built the MVP for a secure payment platform using Gin(Go) and Next.js(TypeScript).",
+                "Architected public APIs and integrated major payment providers.",
+                "Built real-time video/chat systems (Node.js, WebRTC)."
+            ]
+        }
+    ],
+    "Education": [
+        {
+            "Degree": "BSc Computer Engineering",
+            "Institution": "Addis Ababa University",
+            "Location": "Addis Ababa, Ethiopia",
+            "Period": "Sep, 2018 - Jun, 2023",
+            "GPA": "3.8/4.0"
+        }
+    ],
+    "Skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Node.js",
+        "Django",
+        "Flask",
+        "Vue.js",
+        "React.js",
+        "Next.js",
+        "PostgreSQL",
+        "Docker",
+        "SQL",
+        "Bash/Shell"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Yohans Hailu Kasaw",
+    "phone": "+251-929-260-704",
+    "email": "yohanshailukasaw@gmail.com",
+    "location": "Addis Ababa, Ethiopia",
+    "linkedin": "https://www.linkedin.com/in/yohans-kasaw/",
+    "github": "https://github.com/yohans-kasaw",
+    "summary": "Dynamic Full-Stack Engineer with 3+ years of experience specializing in high-performance web applications using the Python (Django/Flask) and JavaScript (React/Next.js, Node.js) ecosystem. Proven success building scalable, data-intensive SaaS solutions and developing intuitive customer-facing dashboards.",
+    "sections": [
+        {
+            "title": "Experience",
+            "entries": [
+                {
+                    "title": "Full-Stack Engineer",
+                    "subtitle": "Floey - Al Asimah, Kuwait",
+                    "period": "06/2025 - present",
+                    "description": [
+                        "Engineered a robust, multi-tenant Software as a Service (SaaS) platform for gym management, utilizing <i>Python (Django)</i> to ensure scalable backend infrastructure and fault tolerance for critical business processes.",
+                        "Designed and deployed complex manager portal interfaces using <i>Vue.js</i>, creating high-performance user experiences including comprehensive analytics dashboards and streamlined activity feeds.",
+                        "Implemented secure third-party API integrations (e.g., payment gateways) and managed the deployment lifecycle using Docker, ensuring stringent uptime requirements were consistently met."
+                    ]
+                },
+                {
+                    "title": "Software Engineer",
+                    "subtitle": "OwlBox AI - Boston, MA",
+                    "period": "04/2024 - 06/2025",
+                    "description": [
+                        "Developed critical data orchestration services using <i>Python (Flask)</i> to process high-volume, unstructured data streams across AWS and GCP, ensuring reliability during data ingestion.",
+                        "Built a highly effective full-stack video annotation portal utilizing <i>Vue.js</i> and <i>PostgreSQL</i>, significantly enhancing the efficiency of data labeling operations required for deep learning model training.",
+                        "Designed and optimized crucial data ingestion pipelines using custom scripts for extracting and processing high-volume data streams, demonstrating hands-on expertise in structuring unstructured inputs."
+                    ]
+                },
+                {
+                    "title": "Software Developer",
+                    "subtitle": "Africa to Silicon Valley - Palo Alto, CA",
+                    "period": "09/2022 - 04/2024",
+                    "description": [
+                        "Led feature development for the EzyPay payment platform, utilizing <i>React.js</i> (applicable to Next.js architectures) and <i>Go</i> to deliver a responsive, high-performance, mobile-first experience.",
+                        "Implemented complex core features (live notifications, video conferencing) within a high-traffic public healthcare platform, leveraging the <i>Node.js</i> ecosystem and scalable RESTful APIs.",
+                        "Actively participated in agile development cycles, focusing on iterative improvement and collaborating closely with design and customer teams to rapidly iterate on customer-facing features using modern JavaScript frameworks."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Education",
+            "entries": [
+                {
+                    "title": "Computer Engineering",
+                    "subtitle": "Addis Ababa University",
+                    "period": "06/2022",
+                    "description": ["🏅 GPA: 3.79, Top 4% of class."]
+                },
+                {
+                    "title": "Competitive Programming",
+                    "subtitle": "A2SV",
+                    "period": "10/2021 - 10/2022",
+                    "description": [
+                        "Solved <i>1,300+</i> problems, exhibiting exceptional problem-solving, teamwork, and dedication, resulting in Top <i>2.5% LeetCode</i> ratings.",
+                        "Developed expertise in data structures and algorithms, with competence in <i>Python</i> and <i>Go</i>."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "entries": [
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "period": "",
+                    "description": [
+                        "<i>Programmig Languages</i>: Python, JavaScript, TypeScript, Go, Bash/Shell, SQL.",
+                        "<i>Backend</i>: Node.js, Django, Flask, RESTful APIs.",
+                        "<i>Frontend</i>: React.js, <b>Next.js</b>, Vue.js, Vite.",
+                        "<i>Databases & Cloud</i>: PostgreSQL (Relational), AWS, GCP, Docker, GitHub Actions, Experience with NoSQL concepts (e.g., MongoDB, Firestore)."
+                    ]
+                }
+            ]
+        }
+    ]
+}

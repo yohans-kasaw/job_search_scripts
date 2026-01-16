@@ -107,6 +107,7 @@
             </header>
 
             <!-- === PROLOGUE: THE SUMMARY === -->
+            {{if .Summary}}
             <section class="mb-8">
                 <h2 class="font-serif text-3xl font-bold text-amber-400">
                     Summary
@@ -114,6 +115,7 @@
                 <div class="w-24 h-px bg-amber-400/50 mt-3 mb-6"></div>
                 <p class="text-slate-300 leading-relaxed">{{.Summary}}</p>
             </section>
+            {{end}}
 
             <!-- === DYNAMIC SECTIONS: THE ODYSSEY CONTINUES === -->
             {{range .Sections}}

@@ -1,0 +1,85 @@
+{
+    "name": "Yohans Hailu Kasaw",
+    "phone": "+251-929-260-704",
+    "email": "yohanshailukasaw@gmail.com",
+    "location": "Addis Ababa, Ethiopia",
+    "linkedin": "https://www.linkedin.com/in/yohans-kasaw/",
+    "github": "https://github.com/yohans-kasaw",
+    "summary": "Software Engineer with a 'first principles' approach to system design and a passion for solving algorithmic challenges. Experienced in architecting scalable solutions using Python, Go, and React. Thrive in autonomous environments where refining the toolset and simplifying complexity are the standards for building high-impact products.",
+    "sections": [
+        {
+            "title": "Experience",
+            "entries": [
+                {
+                    "title": "Full-Stack Engineer",
+                    "subtitle": "Floey - Al Asimah, Kuwait",
+                    "period": "06/2025 - present",
+                    "description": [
+                        "Took full ownership of the backend infrastructure for a multi-tenant gym management SaaS, utilizing <i>Python (Django)</i> to prioritize fault tolerance and system robustness.",
+                        "Refined the frontend architecture using <i>Vue.js</i>, translating complex activity data into intuitive analytics dashboards and scheduling tools for improved user adoption.",
+                        "Identified bottlenecks in the tenant isolation logic and simplified the data models, resulting in easier maintainability for future feature rollouts."
+                    ]
+                },
+                {
+                    "title": "Software Engineer",
+                    "subtitle": "OwlBox AI - Boston, MA",
+                    "period": "04/2024 - 06/2025",
+                    "description": [
+                        "Engineered an orchestration layer for processing security footage across AWS, Google Cloud, and Azure, selecting <i>Python (Flask)</i> for its flexibility in handling diverse API integrations.",
+                        "Built a custom video annotation portal from scratch with <i>Vue.js</i> and <i>PostgreSQL</i>, focusing on a minimalist UX that significantly increased labeling speed for ML training datasets.",
+                        "Collaborated with data scientists to optimize video ingestion pipelines, reducing latency by rethinking how concurrent streams were handled."
+                    ]
+                },
+                {
+                    "title": "Software Developer",
+                    "subtitle": "Africa to Silicon Valley - Palo Alto, CA",
+                    "period": "09/2022 - 04/2024",
+                    "description": [
+                        "Led a small, agile team in developing the EzyPay payment platform, choosing <i>Go</i> for the core transaction services to ensure high performance and type safety under load.",
+                        "Delivered a mobile-first <i>React.js</i> interface, balancing a sophisticated financial backend with a streamlined, accessible user experience.",
+                        "Implemented real-time features for the Hakim Hub healthcare platform, utilizing <i>Node.js</i> to handle live video consultations reliably."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Education",
+            "entries": [
+                {
+                    "title": "Computer Engineering",
+                    "subtitle": "Addis Ababa University",
+                    "period": "06/2022",
+                    "description": [
+                        "🏅 GPA: 3.79, Top 4% of class.",
+                        "Focused on distributed systems and advanced algorithms."
+                    ]
+                },
+                {
+                    "title": "Competitive Programming",
+                    "subtitle": "A2SV",
+                    "period": "10/2021 - 10/2022",
+                    "description": [
+                        "Tackled <i>1,300+</i> algorithmic problems, honing deep reasoning ability and data structure expertise to achieve a Top <i>2.5% LeetCode</i> global rating.",
+                        "Developed a disciplined approach to problem-solving, applying optimal algorithms in <i>Python</i> and <i>Go</i> to resource-constrained scenarios."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "entries": [
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "period": "",
+                    "description": [
+                        "<i>Languages</i>: Python, Go, JavaScript, TypeScript, SQL, Bash/Shell.",
+                        "<i>Architecture & Backend</i>: Django, Flask, Node.js, Microservices, RESTful APIs, gRPC.",
+                        "<i>Frontend</i>: React.js, Next.js, Vue.js, Vite.",
+                        "<i>Infrastructure</i>: Docker, AWS, GCP, PostgreSQL, CI/CD (GitHub Actions)."
+                    ]
+                }
+            ]
+        }
+    ]
+}
